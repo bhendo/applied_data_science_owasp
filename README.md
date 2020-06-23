@@ -1,9 +1,7 @@
-<img src="img/bluehat.jpg">
-
 # Applied Data Science for Security Professionals
-<img src="img/logo_white_bkg_small.png" width="200" align="left" >
+<img src="img/GTK_Logo_Social Icon.jpg" width="150" align="left" >
 
-### Bluehat 2019 Training (October 22nd, 2019) presented by GTK Cyber
+### OWASP 2020 Training for AppSec Days (April 28th-29th, 2020) presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
@@ -19,12 +17,11 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 ### Instructors
 
 - Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
-- Austin Taylor - Cyber Security Researcher: austin.taylor@gtkcyber.com
 
 ### Lectures:
 
 <a href="slides/">/Slides</a>
-- <a href="https://github.com/gtkcyber/applied_data_science_bluehat/blob/master/slides/Bluehat%202019%20-%20Applied%20Data%20Science.pdf">Master Slides</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_owasp2020/blob/master/slides/OWASP%202020%20-%20Applied%20Data%20Science.pdf">Master Slides</a>
 
 GitHub Structure
 
