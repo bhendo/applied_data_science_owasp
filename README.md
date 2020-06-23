@@ -1,7 +1,7 @@
 # Applied Data Science for Security Professionals
 <img src="img/GTK_Logo_Social Icon.jpg" width="150" align="left" >
 
-### OWASP 2020 Training for AppSec Days (April 28th-29th, 2020) presented by GTK Cyber
+### OWASP 2020 Training for AppSec Days (June 23-24th, 2020) presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
